@@ -48,16 +48,10 @@
     <Image Include="TicTacToeUdemyCourse.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\..\Downloads\icons8-charmander-48.png">
+    <Image Include="maul.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\..\..\..\Downloads\icons8-squirtle-48.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\Downloads\swmf-ico\Star Wars LEGO Minifigs\The Icons\maul.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\Downloads\swmf-ico\Star Wars LEGO Minifigs\The Icons\jinn.ico">
+    <Image Include="jinn.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

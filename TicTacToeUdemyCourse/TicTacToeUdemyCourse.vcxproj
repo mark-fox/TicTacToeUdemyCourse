@@ -165,10 +165,8 @@
     <ResourceCompile Include="TicTacToeUdemyCourse.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\Downloads\icons8-charmander-48.png" />
-    <Image Include="..\..\..\..\..\Downloads\icons8-squirtle-48.png" />
-    <Image Include="..\..\..\..\..\Downloads\swmf-ico\Star Wars LEGO Minifigs\The Icons\jinn.ico" />
-    <Image Include="..\..\..\..\..\Downloads\swmf-ico\Star Wars LEGO Minifigs\The Icons\maul.ico" />
+    <Image Include="jinn.ico" />
+    <Image Include="maul.ico" />
     <Image Include="small.ico" />
     <Image Include="TicTacToeUdemyCourse.ico" />
   </ItemGroup>
